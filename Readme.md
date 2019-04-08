@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Андрей Емцев](https://up.htmlacademy.ru/adaptive/16/user/135581).
-* Наставник: `Неизвестно`.
+* Наставник: Кекс.
 
 ---
 
